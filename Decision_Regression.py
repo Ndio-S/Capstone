@@ -5,7 +5,7 @@
 
 
 pip install dash plotly
-
+server = app.server
 
 # In[2]:
 
